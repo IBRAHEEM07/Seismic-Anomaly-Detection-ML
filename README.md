@@ -1,9 +1,7 @@
 ```md
 # Anomaly Detection in Seismic Data using Threshold-Based Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Decision%20Tree-green)
-![Domain](https://img.shields.io/badge/Domain-Seismic%20Data-orange)
+
 
 ## 📌 Overview
 This project focuses on **detecting frequency anomalies in seismic data** introduced during the frequency compensation process. Such anomalies can negatively impact seismic interpretation in **oil and gas exploration**.
